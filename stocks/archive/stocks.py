@@ -1,0 +1,1 @@
+[{'symbol': 'SNAP', 'price': 14.62, 'size': 100, 'time': 1560966563516}, {'symbol': 'FB', 'price': 185.3, 'size': 2, 'time': 1560966580671}]
